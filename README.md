@@ -2,6 +2,8 @@
 This dataset is about marketing activities of a commercial bank, contains data about various features which can contribute to dicision of customer
 that whether they subcribe the term deposit of the bank or not.
 
+![bank marketing](https://user-images.githubusercontent.com/112948322/207266025-1e60be5d-ef66-4f14-9002-e4830b9103d1.jpg)
+
 # This notebook is a data analysis project, 
 which analyzes data from marketing activities of the commercial bank, 
 then detect important features which contributes to decision of customer.
